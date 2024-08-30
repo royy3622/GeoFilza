@@ -1,5 +1,5 @@
 Iparf for iOS 12.1.3 to 12.2 (A9 -> A11)
-by GeoSn0w (@FCE365)
+by Iparf (@royf)
 
 This is pretty much Filza, the File Manager from Cydia. Escapes the Sandbox / Gets ROOT so that you can edit files with it and stuff.
 
